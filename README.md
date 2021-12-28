@@ -1,6 +1,6 @@
 [![Sup3Legacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sup3Legacy&theme=blue-green&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sup3Legacy&theme=blue-green&count_private=true&show_icons=true&langs_count=10?hide=PostScript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sup3Legacy&theme=blue-green&count_private=true&show_icons=true&langs_count=10&hide=postscript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
